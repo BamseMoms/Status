@@ -9,11 +9,11 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: Status
+  #cname: Status
   # Uncomment the following line if you don't have a custom domain and add your repo name
-   #baseUrl: /Status
+  baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  name: BamseMoms Hosting Status
   introTitle: "1111"
   introMessage: "22222"
   navbar:
