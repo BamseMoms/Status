@@ -20,6 +20,7 @@ status-website:
   name: BamseMoms Hosting
   introTitle: "BamseMoms Hosting Nettverks Status"
   introMessage:
+  theme: dark
   navbar:
     - title: Status
       href: /
