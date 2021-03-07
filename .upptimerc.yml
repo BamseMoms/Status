@@ -9,7 +9,7 @@ sites:
   - name: BamseMoms Hosting - KontrollPanel
     url: https://BamseMoms.mcgo.io/
   - name: Node1
-    url: https://BamseMoms.mcgo.io:8080/
+    url: https://BamseMoms.mcgo.io/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
