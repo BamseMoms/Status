@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -33,6 +33,24 @@
     "timeWeek": 895,
     "timeMonth": 895,
     "timeYear": 895,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Spill Node 1",
+    "url": "https://BamseMoms.mcgo.io/",
+    "icon": "https://favicons.githubusercontent.com/bamsemoms.mcgo.io",
+    "slug": "spill-node-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 246,
+    "timeDay": 246,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   }
 ]
