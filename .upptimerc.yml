@@ -8,7 +8,7 @@ sites:
     url: https://BamseMomsHosting.github.io/
   - name: BamseMoms Hosting - KontrollPanel
     url: https://BamseMoms.mcgo.io/
-  - name: Node1
+  - name: SkogenMC - Public Server | ip: BamseMoms.mcgo.io
     url: $SKOGENMC
 
 status-website:
