@@ -9,7 +9,7 @@ sites:
   - name: BamseMoms Hosting - KontrollPanel
     url: https://BamseMoms.mcgo.io/
   - name: SkogenMC
-    url: bamsemoms.mcgo.io:25565
+    url: bamsemoms.mcgo.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -18,8 +18,8 @@ status-website:
   baseUrl: /Status
   logoUrl: https://bamsemomshosting.github.io/assets/img/logo.ico
   name: BamseMoms Hosting Status
-  introTitle: "1111"
-  introMessage: "22222"
+  introTitle: "BamseMoms Hosting Nettverks Status"
+  introMessage:
   navbar:
     - title: Status
       href: /
