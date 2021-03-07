@@ -20,8 +20,10 @@ status-website:
   introMessage:
   theme: night
   navbar:
+    - title: Tilbake
+      href: https://bamsemomshosting.github.io/
     - title: Status
-      href: https://BamseMomsHosting.github.io/
+      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
