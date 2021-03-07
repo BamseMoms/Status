@@ -4,15 +4,19 @@ repo: Status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: BamseMoms
-    url: https://BamseMoms.mcgo.io
+  - name: BamseMoms Hosting - Nettside
+    url: https://BamseMomsHosting.github.io/
+  - name: BamseMoms Hosting - KontrollPanel
+    url: https://BamseMoms.mcgo.io/
+  - name: SkogenMC
+    url: bamsemoms.mcgo.io:25565
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: Status
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://bamsemomshosting.github.io/assets/img/logo.ico
   name: BamseMoms Hosting Status
   introTitle: "1111"
   introMessage: "22222"
