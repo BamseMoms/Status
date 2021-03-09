@@ -4,11 +4,11 @@ repo: Status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: BamseMoms Hosting - Nettside
-    url: https://BamseMomsHosting.github.io/
-  - name: BamseMoms Hosting - KontrollPanel
+  - name: Spillnode - Nettside
+    url: https://Spillnode.github.io/
+  - name: SpillNode - KontrollPanel
     url: https://BamseMoms.mcgo.io/
-  - name: Spill Node 1
+  - name: Server 1
     url: https://BamseMoms.mcgo.io/
 
 status-website:
@@ -23,7 +23,7 @@ status-website:
   theme: night
   navbar:
     - title: Tilbake
-      href: https://bamsemomshosting.github.io/
+      href: https://SpillNode.github.io/
     - title: Status
       href: /
 
