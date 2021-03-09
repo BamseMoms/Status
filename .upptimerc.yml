@@ -4,8 +4,8 @@ repo: Status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Spillnode - Nettside
-    url: https://Spillnode.github.io/
+  - name: SpillNode - Nettside
+    url: https://SpillNode.github.io/
   - name: SpillNode - KontrollPanel
     url: https://BamseMoms.mcgo.io/
   - name: Server 1
