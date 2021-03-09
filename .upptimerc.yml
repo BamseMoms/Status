@@ -16,7 +16,7 @@ status-website:
   #cname: Status
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /Status
-  logoUrl: https://bamsemomshosting.github.io/assets/img/logo.ico
+  logoUrl: https://SpillNode.github.io/assets/img/logo.ico
   name: BamseMoms Hosting
   introTitle: "BamseMoms Hosting Nettverks Status"
   introMessage:
